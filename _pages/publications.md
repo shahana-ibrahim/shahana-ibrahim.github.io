@@ -47,10 +47,29 @@ Computers, 2020 <br>
 
 
 ## Journal Papers
-* [Deep Learning From Crowdsourced Labels: Coupled
-Cross-entropy Minimization, Identifiability, and Regularizatio](https://openreview.net/forum?id=_qVhsWyWB9)<br>
-  **Shahana Ibrahim**, Tri Nguyen, and Xiao Fu<br>
-  submitted to  International Conference on Learning Representations, 2023 <br>
+* [Stochastic Mirror Descent for LowRank Tensor Decomposition Under Non-Euclidean Losses](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9745762)<br>
+  Wenqiang Pu, **Shahana Ibrahim**, Xiao Fu, and Mingyi Hong<br>
+  IEEE Transactions on Signal Processing, 2022 <br>
+  
+* [Recovering Joint Probability of Discrete Random Variables from Pairwise Marginals](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9462323)<br>
+  **Shahana** Ibrahim and Xiao Fu<br>
+  IEEE Transactions on Signal Processing, 2021 <br>
+  
+ * [Mixed Membership Graph Clustering via Systematic Edge Query](https://ieeexplore.ieee.org/document/9529053)<br>
+  **Shahana** Ibrahim and Xiao Fu<br>
+  IEEE Transactions on Signal Processing, 2021 <br>
+  
+  * [On Recoverability of Randomly Compressed Tensors with Low CP Rank](https://ieeexplore.ieee.org/document/9529053)<br>
+  **Shahana** Ibrahim and Xiao Fu<br>
+  IEEE Signal Processing Letters, 2020 <br>
+  
+  * [On Recoverability of Randomly Compressed Tensors with Low CP Rank](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9119759)<br>
+  **Shahana** Ibrahim and Xiao Fu<br>
+  IEEE Signal Processing Letters, 2020 <br>
+  
+   * [Estimating Phase Duration for SPAT messages”](https://ieeexplore.ieee.org/document/8500307)<br>
+  **Shahana Ibrahim**, Dileep Kalathil, Rene Sanchez, and Pravin Varaiya<br>
+  IEEE Transactions on Intelligent Transportation Systems, 2019 <br>
   
 ## Workshop Papers
 * [Deep Learning From Crowdsourced Labels: Coupled
