@@ -82,4 +82,4 @@ Computers, 2020 <br>
 
 
 
-Also refer to the [Google Scholar](https://scholar.google.com/citations?user=FxN93qsAAAAJ&hl=en) for my full paper list. <br>
+Also refer to my [Google Scholar](https://scholar.google.com/citations?user=FxN93qsAAAAJ&hl=en) page for the complete list of publications. <br>
