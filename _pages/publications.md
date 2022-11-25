@@ -31,6 +31,20 @@ Edge Query: Identifiability and Algorithm](https://ieeexplore.ieee.org/document/
   IEEE International Conference on Acoustics,
 Speech and Signal Processing (ICASSP), 2021 <br>
 
+* [VLSI Hardware Architecture of Stochastic Low-rank Tensor Decomposition](https://ieeexplore.ieee.org/document/9723182)<br>
+  Lingyi Huang, Chunhua Deng, **Shahana Ibrahim**, Xiao Fu, Bo Yuan<br>
+  Asilomar Conference on Signals, Systems, and
+Computers, 2021 <br>
+
+* [Recovering Joint PMF from Pairwise Marginals](https://ieeexplore.ieee.org/document/9443425)<br>
+  **Shahana Ibrahim** and Xiao Fu<br>
+  Asilomar Conference on Signals, Systems, and
+Computers, 2020 <br>
+
+* [Crowdsourcing via Pairwise Cooccurrences: Identifiability and Algorithms](https://proceedings.neurips.cc/paper/2019/file/c0e19ce0dbabbc0d17a4f8d4324cc8e3-Paper.pdf)<br>
+  **Shahana Ibrahim** and Xiao Fu<br>
+  Advances in Neural Information Processing Systems, 2019 <br>
+
 
 ## Journal Papers
 * [Deep Learning From Crowdsourced Labels: Coupled
