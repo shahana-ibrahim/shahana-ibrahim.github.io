@@ -6,4 +6,4 @@ redirect_from:
   - /talks
 ---
 
-* [July 2021] *Crowdsourcing via Annotator Co-occurrence Imputation & Provable Symmetric Nonnegative Matrix Factorization*, **ICML, Virtual Talk**
+* [July 2021] *Crowdsourcing via Annotator Co-occurrence Imputation & Provable Symmetric Nonnegative Matrix Factorization*, **ICML Virtual Talk**
