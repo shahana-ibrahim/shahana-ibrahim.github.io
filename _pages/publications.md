@@ -72,7 +72,7 @@ Computers, 2020 <br>
   IEEE Transactions on Intelligent Transportation Systems, 2019 <br>
   
 ## Workshop Papers
-* [Under-Counted Tensor Completion with Neural Network-based Side Information Learner](https://openreview.net/forum?id=_qVhsWyWB9)<br>
+* [Under-Counted Tensor Completion with Neural Network-based Side Information Learner](/files/WiML_poster.pdf)<br>
   **Shahana Ibrahim**, Xiao Fu, Rebecca Hutchinson, and Eugen Seo<br>
   NeurIPS Women in Machine Learning Workshop, 2022 <br>
   
