@@ -8,20 +8,20 @@ author_profile: true
 
 
 
-#### Conference Papers
+## Conference Papers
 * [Deep Learning From Crowdsourced Labels: Coupled
 Cross-entropy Minimization, Identifiability, and Regularization](https://openreview.net/forum?id=_qVhsWyWB9)<br>
   **Shahana Ibrahim**, Tri Nguyen, and Xiao Fu<br>
   submitted to  International Conference on Learning Representations, 2023 <br>
 
 
-#### Journal Papers
+## Journal Papers
 * [Deep Learning From Crowdsourced Labels: Coupled
 Cross-entropy Minimization, Identifiability, and Regularizatio](https://openreview.net/forum?id=_qVhsWyWB9)<br>
   **Shahana Ibrahim**, Tri Nguyen, and Xiao Fu<br>
   submitted to  International Conference on Learning Representations, 2023 <br>
   
-#### Workshop Papers
+## Workshop Papers
 * [Deep Learning From Crowdsourced Labels: Coupled
 Cross-entropy Minimization, Identifiability, and Regularizatio](https://openreview.net/forum?id=_qVhsWyWB9)<br>
   **Shahana Ibrahim**, Tri Nguyen, and Xiao Fu<br>
