@@ -52,15 +52,15 @@ Computers, 2020 <br>
   IEEE Transactions on Signal Processing, 2022 <br>
   
 * [Recovering Joint Probability of Discrete Random Variables from Pairwise Marginals](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9462323)<br>
-  **Shahana** Ibrahim and Xiao Fu<br>
+  **Shahana Ibrahim** and Xiao Fu<br>
   IEEE Transactions on Signal Processing, 2021 <br>
   
  * [Mixed Membership Graph Clustering via Systematic Edge Query](https://ieeexplore.ieee.org/document/9529053)<br>
-  **Shahana** Ibrahim and Xiao Fu<br>
+  **Shahana Ibrahim** and Xiao Fu<br>
   IEEE Transactions on Signal Processing, 2021 <br>
   
   * [On Recoverability of Randomly Compressed Tensors with Low CP Rank](https://ieeexplore.ieee.org/document/9529053)<br>
-  **Shahana** Ibrahim and Xiao Fu<br>
+  **Shahana Ibrahim** and Xiao Fu<br>
   IEEE Signal Processing Letters, 2020 <br>
   
   * [Block-Randomized Stochastic Proximal Gradient for Low Rank Tensor Factorization](https://ieeexplore.ieee.org/document/8682465)<br>
@@ -72,10 +72,13 @@ Computers, 2020 <br>
   IEEE Transactions on Intelligent Transportation Systems, 2019 <br>
   
 ## Workshop Papers
-* [Deep Learning From Crowdsourced Labels: Coupled
-Cross-entropy Minimization, Identifiability, and Regularizatio](https://openreview.net/forum?id=_qVhsWyWB9)<br>
-  **Shahana Ibrahim**, Tri Nguyen, and Xiao Fu<br>
-  submitted to  International Conference on Learning Representations, 2023 <br>
+* [Under-Counted Tensor Completion with Neural Network-based Side Information Learner](https://openreview.net/forum?id=_qVhsWyWB9)<br>
+  **Shahana Ibrahim**, Xiao Fu, Rebecca Hutchinson, and Eugen Seo<br>
+  NeurIPS Women in Machine Learning Workshop, 2022 <br>
+  
+* [Stochastic Optimization for Coupled Tensor Decomposition with Applications in Statistical Learning](https://ieeexplore.ieee.org/document/8755797)<br>
+  **Shahana Ibrahim** and Xiao Fu<br>
+  IEEE Data Science Workshop (DSW), 2019 <br>
 
 
 
