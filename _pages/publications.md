@@ -63,9 +63,9 @@ Computers, 2020 <br>
   **Shahana** Ibrahim and Xiao Fu<br>
   IEEE Signal Processing Letters, 2020 <br>
   
-  * [On Recoverability of Randomly Compressed Tensors with Low CP Rank](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9119759)<br>
-  **Shahana** Ibrahim and Xiao Fu<br>
-  IEEE Signal Processing Letters, 2020 <br>
+  * [Block-Randomized Stochastic Proximal Gradient for Low Rank Tensor Factorization](https://ieeexplore.ieee.org/document/8682465)<br>
+  Xiao Fu, **Shahana Ibrahim**, Hoi-To Wai, Cheng Gao, and Kejun Huang<br>
+  IEEE Transactions on Signal Processing, 2020 <br>
   
    * [Estimating Phase Duration for SPAT messages”](https://ieeexplore.ieee.org/document/8500307)<br>
   **Shahana Ibrahim**, Dileep Kalathil, Rene Sanchez, and Pravin Varaiya<br>
