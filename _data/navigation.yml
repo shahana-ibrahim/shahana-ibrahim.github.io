@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/     
+    url: /talks/    
+    
+  - title: "Services"
+    url: /talks/   
     
   - title: "CV"
     url: /files/RESUME_ShahanaIbrahim.pdf
