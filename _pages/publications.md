@@ -12,7 +12,7 @@ author_profile: true
 * [Deep Learning From Crowdsourced Labels: Coupled
 Cross-entropy Minimization, Identifiability, and Regularization](https://openreview.net/forum?id=_qVhsWyWB9)<br>
   **Shahana Ibrahim**, Tri Nguyen, and Xiao Fu<br>
-  submitted to  International Conference on Learning Representations (ICLR), 2023 <br>
+  accepted at International Conference on Learning Representations (ICLR), 2023 <br>
   
 * [Crowdsourcing via Annotator Co-occurrence Imputation and
 Provable Symmetric Nonnegative Matrix Factorization](https://proceedings.mlr.press/v139/ibrahim21a.html)<br>
