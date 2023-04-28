@@ -19,6 +19,6 @@ Before joining PhD, I had interned with the GPU team at [NVIDIA](https://www.nvi
 
 
 ### ***News!***
-**04/26/2023**: Two papers got accepted at ICML 2023                                  
-            [Under-Counted Tensor Completion with Neural Incorporation of Attributes](https://openreview.net/pdf?id=5qmc0PoktR)<br>
-            [Deep Clustering with Incomplete Noisy Pairwise Annotations: A Geometric Regularization Approach](https://openreview.net/pdf?id=ElgoXPdI5l)<br>
+**04/24/2023**: Two papers got accepted at ICML 2023                                  
+                [Under-Counted Tensor Completion with Neural Incorporation of Attributes](https://openreview.net/pdf?id=5qmc0PoktR)<br>
+                [Deep Clustering with Incomplete Noisy Pairwise Annotations: A Geometric Regularization Approach](https://openreview.net/pdf?id=ElgoXPdI5l)<br>
