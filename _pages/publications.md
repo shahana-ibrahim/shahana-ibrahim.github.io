@@ -9,6 +9,14 @@ author_profile: true
 
 
 ## Conference Papers
+* [Under-Counted Tensor Completion with Neural Incorporation of Attributes](https://openreview.net/pdf?id=5qmc0PoktR)<br>
+  **Shahana Ibrahim**, Xiao Fu, Rebecca Hutchinson, and Eugene Seo<br>
+  accepted at International Conference on Machine Learning (ICML), 2023 <br>
+  
+ * [Deep Clustering with Incomplete Noisy Pairwise Annotations: A Geometric Regularization Approach](https://openreview.net/pdf?id=ElgoXPdI5l)<br>
+   Tri Nguyen, **Shahana Ibrahim**, and Xiao Fu<br>
+  accepted at International Conference on Machine Learning (ICML), 2023 <br>
+  
 * [Deep Learning From Crowdsourced Labels: Coupled
 Cross-entropy Minimization, Identifiability, and Regularization](https://openreview.net/forum?id=_qVhsWyWB9)<br>
   **Shahana Ibrahim**, Tri Nguyen, and Xiao Fu<br>
