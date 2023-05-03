@@ -82,7 +82,7 @@ Computers, 2020 <br>
 ## Workshop Papers
 * [Under-Counted Tensor Completion with Neural Network-based Side Information Learner](/files/WiML_poster.pdf)<br>
   **Shahana Ibrahim**, Xiao Fu, Rebecca Hutchinson, and Eugen Seo<br>
-  NeurIPS Women in Machine Learning Workshop, 2022 <br> -->
+  NeurIPS Women in Machine Learning Workshop, 2022 <br> 
   
 * [Stochastic Optimization for Coupled Tensor Decomposition with Applications in Statistical Learning](https://ieeexplore.ieee.org/document/8755797)<br>
   **Shahana Ibrahim** and Xiao Fu<br>
