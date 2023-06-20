@@ -14,9 +14,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://github.com/shahanaibrahimosu/shahanaibrahimosu.github.io/blob/master/images/uctc1.gif" width="150px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
- <strong> Under-Counted Tensor Completion with Neural Incorporation of Attributes </strong> <br>  Shahana Ibrahim, Xiao Fu, Rebecca Hutchinson, and Eugene Seo. <br>
+<strong> Under-Counted Tensor Completion with Neural Incorporation of Attributes </strong> <br>  Shahana Ibrahim, Xiao Fu, Rebecca Hutchinson, and Eugene Seo. <br>
 <i> accepted at International Conference on Machine Learning (ICML), 2023 </i> <br>
- <a href="https://arxiv.org/pdf/2306.03273.pdf"> [PDF] </a> <a href="https://github.com/shahanaibrahimosu/undercounted-tensor-completion"> [CODE]     </p> </td>
+<a href="https://arxiv.org/pdf/2306.03273.pdf"> [PDF] </a> <a href="https://github.com/shahanaibrahimosu/undercounted-tensor-completion"> [CODE] </a> </p> </td>
 </tr>
 </tbody>
 </table>
