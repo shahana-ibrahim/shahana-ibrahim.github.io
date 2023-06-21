@@ -19,7 +19,7 @@ Before joining PhD, I had interned with the GPU team at [NVIDIA](https://www.nvi
 # **Research**
 
 The rise of AI opens the door to unimaginable opportunities for making the world a better place. However, challenges abound. My research goal is to enhance the learning techniques in AI to be robust, reliable, and efficient for critical applications in our daily lives 
-![Research](/images/research2.png)
+![Research](/images/research3.png)
 
 
 # **Latest News**
