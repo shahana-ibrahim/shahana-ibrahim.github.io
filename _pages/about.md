@@ -22,8 +22,6 @@ The rise of AI opens the door to unimaginable opportunities for making the world
 ![Research](/images/research4.png)
 
 # **Select Publications**
-You can also find my publications on <a href="https://scholar.google.com/citations?user=FxN93qsAAAAJ&hl=en"> Google Scholar </a> <br>
-
 
 <table >
 <tbody>
