@@ -175,7 +175,7 @@ Descent For Tensor Decomposition with beta Divergence </strong> <br>  Wenqiang P
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Crowdsourcing via Pairwise Cooccurrences: Identifiability and Algorithms </strong> <br>  Shahana Ibrahim and Xiao Fu. <br>
 <i> Advances in Neural Information Processing Systems, 2019 </i> <br>
-<a href="https://proceedings.neurips.cc/paper/2019/file/c0e19ce0dbabbc0d17a4f8d4324cc8e3-Paper.pdf"> [PDF] </a> <a href="https://github.com/shahanaibrahimosu/crowdsourcing"> [CODE] </a> <a href="https://shahanaibrahimosu.github.io/files/crowdsourcing.pdf"> [SLIDES] </a> <a href="https://github.com/shahanaibrahimosu/crowdsourcing/crowdsourcing_poster.pdf"> [POSTER] </a>    </p> </td>
+<a href="https://proceedings.neurips.cc/paper/2019/file/c0e19ce0dbabbc0d17a4f8d4324cc8e3-Paper.pdf"> [PDF] </a> <a href="https://github.com/shahanaibrahimosu/crowdsourcing"> [CODE] </a> <a href="https://shahanaibrahimosu.github.io/files/crowdsourcing.pdf"> [SLIDES] </a> <a href="https://shahanaibrahimosu.github.io/files/crowdsourcing_nips_poster.pdf"> [POSTER] </a>    </p> </td>
 </tr>
 </tbody>
 </table>
