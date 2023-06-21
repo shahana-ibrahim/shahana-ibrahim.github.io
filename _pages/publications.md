@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-You can also find my publications 1 on <a href="https://scholar.google.com/citations?user=FxN93qsAAAAJ&hl=en"> Google Scholar </a> <br>
+You can also find my publications 2 on <a href="https://scholar.google.com/citations?user=FxN93qsAAAAJ&hl=en"> Google Scholar </a> <br>
 
 
 <table >
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://shahanaibrahimosu.github.io/images/uctc1.gif" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<font size="+10"> <strong> Under-Counted Tensor Completion with Neural Incorporation of Attributes  </strong> </font> <br>  Shahana Ibrahim, Xiao Fu, Rebecca Hutchinson, and Eugene Seo. <br>
+<strong> <font size="+10"> Under-Counted Tensor Completion with Neural Incorporation of Attributes </font>  </strong>  <br>  Shahana Ibrahim, Xiao Fu, Rebecca Hutchinson, and Eugene Seo. <br>
 <i> accepted at International Conference on Machine Learning (ICML), 2023 </i> <br>
 <a href="https://arxiv.org/pdf/2306.03273.pdf"> [PDF] </a> <a href="https://github.com/shahanaibrahimosu/undercounted-tensor-completion"> [CODE] </a> </p> </td> 
 </tr>
