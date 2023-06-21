@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can also find my publications on <a href="https://scholar.google.com/citations?user=FxN93qsAAAAJ&hl=en"> Google Scholar </a> <br>
+You can also find my publications 1 on <a href="https://scholar.google.com/citations?user=FxN93qsAAAAJ&hl=en"> Google Scholar </a> <br>
 
 
 <table >
