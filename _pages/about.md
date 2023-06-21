@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a PhD Candidate at the [School of EECS, Oregon State University](https://eecs.oregonstate.edu/), advised by [Dr. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/). My research focus is in designing provable and efficient methods for various data-driven tasks in machine learning. I also work in the fields of signal processing and optimization with applications of various structured factorization tools and related algorithm design.
+I am a PhD Candidate at the [School of EECS, Oregon State University](https://eecs.oregonstate.edu/), advised by [Dr. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/). My research focus is in designing provable and efficient methods for various data-driven tasks in machine learning and AI. I also work in the fields of signal processing and optimization with applications of various structured factorization tools and related algorithm design.
 
 Before joining PhD, I had interned with the GPU team at [NVIDIA](https://www.nvidia.com/en-us/), Santa Clara, USA in 2018 and had been working as a System Validation Engineer with [Texas Instruments](https://www.ti.com/), Bengaluru, India, from 2012 to 2017.
 
@@ -18,7 +18,7 @@ Before joining PhD, I had interned with the GPU team at [NVIDIA](https://www.nvi
 
 # **Research**
 
-The rise of AI techniques open the door to unimaginable opportunities for making the world a better place. However, challenges abound. My research goal is to enhance these powerful tools to be robust, reliable, and efficient for critical applications in our daily lives. 
+The rise of AI opens the door to unimaginable opportunities for making the world a better place. However, challenges abound. My research goal is to enhance the learning techniques in AI to be robust, reliable, and efficient for critical applications in our daily lives 
 ![Research](/images/research1.png)
 
 
