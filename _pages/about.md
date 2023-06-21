@@ -16,9 +16,13 @@ Before joining PhD, I had interned with the GPU team at [NVIDIA](https://www.nvi
 
 ***Currently, I am available in the job market and actively looking for full time positions!***
 
+### **Research**
+
+The rise of AI techniques open the door to unimaginable opportunities for making the world a better place. However, challenges abound. My research goal is to enhance these powerful tools to be robust, reliable, and efficient for critical applications in our daily lives. 
+![Research](/images/research.png)
 
 
-### ***News!***
+### **Latest News**
 **06/03/2023**: Gave a talk at [SIAM Conference on Optimization (OP23)](https://www.siam.org/conferences/cm/conference/op23)<br>
                 Check out the slides [here](https://github.com/shahanaibrahimosu/shahanaibrahimosu.github.io/blob/master/files/Undercounted%20Tensor%20Completion.pptx)!<br>
                 
