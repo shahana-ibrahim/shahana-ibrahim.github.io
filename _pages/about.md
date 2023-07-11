@@ -159,7 +159,7 @@ Provable Symmetric Nonnegative Matrix Factorization </strong> <br>  Shahana Ibra
 
 # **Latest News**
 **07/06/2023**: Succesfully defended my PhD thesis. Congrats Dr. Shahana Ibrahim :)
-![Defense](/images/research3.png)
+![Defense](/images/defense.jpg)
                 
 **06/03/2023**: Gave a talk at [SIAM Conference on Optimization (OP23)](https://www.siam.org/conferences/cm/conference/op23)<br>
                 Check out the slides [here](https://github.com/shahanaibrahimosu/shahanaibrahimosu.github.io/blob/master/files/Undercounted%20Tensor%20Completion.pptx)!<br>
