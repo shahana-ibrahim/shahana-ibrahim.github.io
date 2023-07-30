@@ -158,6 +158,9 @@ Provable Symmetric Nonnegative Matrix Factorization </strong> <br>  Shahana Ibra
 
 
 # **Latest News**
+**07/25/2023**: Attended ICML2023 at Honolulu, Hawaii.
+
+![Defense](/images/icml.jpg)
 **07/06/2023**: Succesfully defended my PhD thesis. Congrats Dr. Shahana Ibrahim :)
 
 ![Defense](/images/defense.jpg)
