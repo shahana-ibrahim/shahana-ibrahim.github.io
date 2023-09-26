@@ -156,18 +156,27 @@ Provable Symmetric Nonnegative Matrix Factorization </strong> <br>  Shahana Ibra
 
 
 # **Latest News**
-**07/25/2023**: Attended ICML2023 at Honolulu, Hawaii.
+**September 2023**: One paper got accepted at [IEEE CAMSAP 2023](https://camsap23.ig.umons.ac.be/). Congrats Grey for your first paper acceptance!
+
+**September 2023**: Exciting News!! I officially accepted the tenure-track assistant professor position at UCF! I will be joining the ECE department
+                    with joint appointment in CS under the AI initiative, starting Spring 2024:)
+                    
+**September 2023**: Served as the PC member of AAAI Artificial Intelligence for Social Impact Track 2023
+
+**September 2023**: Served as the PC member of WiML NeurIPS Workshop 2023
+
+**July 2023**: Attended ICML2023 at Honolulu, Hawaii.
 
 ![Defense](/images/icml.jpg)
 
-**07/06/2023**: Succesfully defended my PhD thesis. Congrats Dr. Shahana Ibrahim :)
+**July 2023**: Succesfully defended my PhD thesis. Congrats Dr. Shahana Ibrahim :)
 
 ![Defense](/images/defense.jpg)
                 
-**06/03/2023**: Gave a talk at [SIAM Conference on Optimization (OP23)](https://www.siam.org/conferences/cm/conference/op23)<br>
+**June 2023**: Gave a talk at [SIAM Conference on Optimization (OP23)](https://www.siam.org/conferences/cm/conference/op23)<br>
                 Check out the slides [here](https://github.com/shahanaibrahimosu/shahanaibrahimosu.github.io/blob/master/files/Undercounted%20Tensor%20Completion.pptx)!<br>
                 
-**04/24/2023**: Two papers got accepted at ICML 2023                                  
+**April 2023**: Two papers got accepted at ICML 2023                                  
                 [Under-Counted Tensor Completion with Neural Incorporation of Attributes](https://openreview.net/pdf?id=5qmc0PoktR)<br>
                 [Deep Clustering with Incomplete Noisy Pairwise Annotations: A Geometric Regularization Approach](https://openreview.net/pdf?id=ElgoXPdI5l)<br>
 
