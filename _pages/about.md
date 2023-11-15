@@ -14,6 +14,8 @@ I am an incoming tenure-track Assistant Professor at [University of Central Flor
 
 Before joining PhD, I had interned with the GPU team at [NVIDIA](https://www.nvidia.com/en-us/), Santa Clara, USA in 2018 and had been working as a System Validation Engineer with [Texas Instruments](https://www.ti.com/), Bengaluru, India, from 2012 to 2017.
 
+***Prospective students: I am seeking highly motivated PhD students to join my research lab with RA/TA funding. For more details about my research directions, please take a look at my publications page. If you are interested, please send me an email, clearly stating your research interests along with your detailed resume.***
+
 # **Research**
 
 The rise of AI opens the door to unimaginable opportunities for making the world a better place. However, challenges abound. My research goal is to enhance the learning techniques in AI to be ***robust, reliable, and efficient*** for critical applications in our daily lives. 
