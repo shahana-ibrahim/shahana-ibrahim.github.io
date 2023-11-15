@@ -158,6 +158,8 @@ Provable Symmetric Nonnegative Matrix Factorization </strong> <br>  Shahana Ibra
 
 
 # **Latest News**
+**September 2023**: Served as the PC member of AISTATS 2023
+
 **September 2023**: One paper got accepted at [IEEE CAMSAP 2023](https://camsap23.ig.umons.ac.be/). Congrats Grey for your first paper acceptance!
 
 **September 2023**: Exciting News!! I officially accepted the tenure-track assistant professor position at UCF! I will be joining the ECE department
