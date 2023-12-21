@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am an incoming tenure-track Assistant Professor at [University of Central Florida](https://www.ucf.edu/), under the [AI Initiative](https://ai.ucf.edu/), with the joint appointment in the Department of ECE and CS, starting January, 2023. I obtained my Ph.D. degree in Electrical and Computer Engineering from [Oregon State University](https://eecs.oregonstate.edu/), under the supervision of [Dr. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/). My research focus is in designing provable and efficient methods for various data-driven tasks in machine learning and AI. I also work in the fields of signal processing and optimization with applications of various structured factorization tools and related algorithm design.
+I am a tenure-track Assistant Professor at [University of Central Florida](https://www.ucf.edu/), under the [AI Initiative](https://ai.ucf.edu/), with the joint appointment in the Department of ECE and CS. I obtained my Ph.D. degree in Electrical and Computer Engineering from [Oregon State University](https://eecs.oregonstate.edu/), under the supervision of [Dr. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/). My research focus is in designing provable and efficient methods for various data-driven tasks in machine learning and AI. I also work in the fields of signal processing and optimization with applications of various structured factorization tools and related algorithm design.
 
 Before joining PhD, I had interned with the GPU team at [NVIDIA](https://www.nvidia.com/en-us/), Santa Clara, USA in 2018 and had been working as a System Validation Engineer with [Texas Instruments](https://www.ti.com/), Bengaluru, India, from 2012 to 2017.
 
