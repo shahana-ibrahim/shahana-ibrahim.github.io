@@ -34,8 +34,6 @@ The rise of AI opens the door to unimaginable opportunities for making the world
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://shahanaibrahimosu.github.io/images/voldc.gif" width="200px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
 <strong> Deep Clustering with Incomplete Noisy Pairwise Annotations: A Geometric Regularization Approach </strong> <br>  Tri Nguyen, Shahana Ibrahim, and Xiao Fu. <br>
 <i> accepted at International Conference on Machine Learning (ICML), 2023 </i> <br>
 <a href="https://arxiv.org/pdf/2305.19391.pdf"> [PDF] </a>   </p> </td>
@@ -45,8 +43,6 @@ The rise of AI opens the door to unimaginable opportunities for making the world
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://shahanaibrahimosu.github.io/images/e2e.gif" width="200px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
 <strong> Deep Learning From Crowdsourced Labels: Coupled
 Cross-entropy Minimization, Identifiability, and Regularization </strong> <br>  Shahana Ibrahim, Tri Nguyen, and Xiao Fu. <br>
 <i> International Conference on Learning Representations (ICLR), 2023 </i> <br>
@@ -58,8 +54,6 @@ Cross-entropy Minimization, Identifiability, and Regularization </strong> <br>  
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://shahanaibrahimosu.github.io/images/smd.gif" width="200px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
 <strong> Stochastic Mirror Descent for LowRank Tensor Decomposition Under Non-Euclidean Losses </strong> <br>  Wenqiang Pu, Shahana Ibrahim, Xiao Fu, and Mingyi Hong. <br>
 <i> IEEE Transactions on Signal Processing, 2022 </i> <br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9745762"> [PDF] </a>  </p> </td>
@@ -71,8 +65,6 @@ Cross-entropy Minimization, Identifiability, and Regularization </strong> <br>  
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://shahanaibrahimosu.github.io/images/pdf.gif" width="200px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
 <strong> Recovering Joint Probability of Discrete Random Variables from Pairwise Marginals </strong> <br>  Shahana Ibrahim and Xiao Fu. <br>
 <i> IEEE Transactions on Signal Processing, 2021 </i> <br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9462323"> [PDF] </a> <a href="https://github.com/shahanaibrahimosu/joint-probability-estimation"> [CODE] </a> <a href="https://shahanaibrahimosu.github.io/files/joint_probbaility.pdf"> [SLIDES] </a>    </p> </td>
@@ -82,8 +74,6 @@ Cross-entropy Minimization, Identifiability, and Regularization </strong> <br>  
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://shahanaibrahimosu.github.io/images/gc.gif" width="200px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
 <strong> Mixed Membership Graph Clustering via Systematic Edge Query </strong> <br>  Shahana Ibrahim and Xiao Fu. <br>
 <i> IEEE Transactions on Signal Processing, 2021 </i> <br>
 <a href="https://ieeexplore.ieee.org/document/9529053"> [PDF] </a> <a href="https://github.com/shahanaibrahimosu/mixed-membership-graph-clustering"> [CODE] </a>  </p> </td>
@@ -93,8 +83,6 @@ Cross-entropy Minimization, Identifiability, and Regularization </strong> <br>  
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://shahanaibrahimosu.github.io/images/crowd.gif" width="200px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
 <strong> Crowdsourcing via Annotator Co-occurrence Imputation and
 Provable Symmetric Nonnegative Matrix Factorization </strong> <br>  Shahana Ibrahim and Xiao Fu. <br>
 <i> International Conference on Machine Learning (ICML), 2021 </i> <br>
@@ -107,8 +95,6 @@ Provable Symmetric Nonnegative Matrix Factorization </strong> <br>  Shahana Ibra
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://shahanaibrahimosu.github.io/images/rip.gif" width="200px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
 <strong> On Recoverability of Randomly Compressed Tensors with Low CP Rank </strong> <br>  Shahana Ibrahim, Xiao Fu, and Xingguo Li. <br>
 <i> IEEE Signal Processing Letters, 2020 </i> <br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9119759"> [PDF] </a>  </p> </td>
@@ -120,8 +106,6 @@ Provable Symmetric Nonnegative Matrix Factorization </strong> <br>  Shahana Ibra
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://shahanaibrahimosu.github.io/images/block.gif" width="200px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
 <strong> Block-Randomized Stochastic Proximal Gradient for Low Rank Tensor Factorization </strong> <br>  Xiao Fu, Shahana Ibrahim, Hoi-To Wai, Cheng Gao, and Kejun Huang. <br>
 <i> IEEE Transactions on Signal Processing, 2020 </i> <br>
 <a href="https://ieeexplore.ieee.org/document/8682465"> [PDF] </a> <a href="https://github.com/shahanaibrahimosu/block-randomized-sgd-tensor-decomposition"> [CODE] </a>  </p> </td>
@@ -131,8 +115,6 @@ Provable Symmetric Nonnegative Matrix Factorization </strong> <br>  Shahana Ibra
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://shahanaibrahimosu.github.io/images/cds.gif" width="200px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
 <strong> Crowdsourcing via Pairwise Cooccurrences: Identifiability and Algorithms </strong> <br>  Shahana Ibrahim and Xiao Fu. <br>
 <i> Advances in Neural Information Processing Systems, 2019 </i> <br>
 <a href="https://proceedings.neurips.cc/paper/2019/file/c0e19ce0dbabbc0d17a4f8d4324cc8e3-Paper.pdf"> [PDF] </a> <a href="https://github.com/shahanaibrahimosu/crowdsourcing"> [CODE] </a> <a href="https://shahanaibrahimosu.github.io/files/crowdsourcing.pdf"> [SLIDES] </a> <a href="https://shahanaibrahimosu.github.io/files/crowdsourcing_nips_poster.pdf"> [POSTER] </a>    </p> </td>
@@ -142,8 +124,6 @@ Provable Symmetric Nonnegative Matrix Factorization </strong> <br>  Shahana Ibra
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://shahanaibrahimosu.github.io/images/spat.gif" width="200px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
 <strong> Estimating Phase Duration for SPAT messages </strong> <br>  Shahana Ibrahim, Dileep Kalathil, Rene Sanchez, and Pravin Varaiya. <br>
 <i> IEEE Transactions on Intelligent Transportation Systems, 2019 </i> <br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500307"> [PDF] </a>  <a href="https://shahanaibrahimosu.github.io/files/EstimatingPhaseDuration.pdf"> [SLIDES] </a>    </p> </td>
