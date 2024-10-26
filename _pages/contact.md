@@ -10,8 +10,8 @@ redirect_from:
 
 ## Contact
 
-1148, Kelly Engineering Center, <br/>
-2500 NW Monroe Ave, <br/>
-Corvallis, OR 97331 <br/>
+#427, L3Harris Corporation Engineering Center, <br/>
+4328 Scorpius St, <br/>
+Orlando, FL 32816 <br/>
 **P**: 979-703-0191 <br/>
 **E**: shahana.ibrahim@ucf.edu
