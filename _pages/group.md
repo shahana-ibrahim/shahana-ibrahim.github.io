@@ -9,9 +9,6 @@ redirect_from:
 
 
 
-# Research Lab Members
-
-
 ---
 
 ## Principal Investigator
