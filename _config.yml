@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shahana Ibrahim"
 title_separator          : "-"
-name                     : &name "Shahana Ibrahim"
+name                     : &name "Shahana Ibrahim, Ph.D."
 description              : &description "personal description"
 url                      : https://shahana-ibrahim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
