@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Group"
+permalink: /group/
+redirect_from:
+  - /group
+---
+
+
+
+
 # Research Lab Members
 
 
