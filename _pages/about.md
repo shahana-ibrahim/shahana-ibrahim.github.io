@@ -26,6 +26,30 @@ The rise of AI opens the door to unimaginable opportunities for making the world
 
 
 # **Latest News**
+**May 2025**: One paper got accepted at [IEEE ICIP 2025](https://2025.ieeeicip.org/). Congratulations Faizul!
+
+**May 2025**: Our tutorial paper [**Learning from Crowdsourced Noisy Labels: A Signal Processing Perspective**](https://arxiv.org/abs/2407.06902) got accepted at IEEE Signal Processing Magazine. 
+
+**April 2025**: Attended ICASSP 2025 in Hyderabad India. Presented the tutorial, lecture, and a poster!
+![](/images/icassp1.jpg)
+
+
+Checkout the slides of our tutorial **End-to-End Learning from Crowdsourced Labels: A Signal Processing Perspective** [here](https://github.com/shahana-ibrahim/Learning-from-Crowdsourced-Noisy-Labels/blob/main/Crowdslides_ICASSP25.pdf)<br>
+
+**December 2024**: We recieved the [AI-BTO DARPA grant to study the conformational properties of intrinsically disordered proteins using physics-informed machine learning](https://ai.ucf.edu/research-team-secures-darpa-grant-for-advancing-biomolecular-condensate-exploration/). 
+
+**December 2024**: Two papers got accepted at ICASSP 2025. <br>
+[Multi-label Recognition under Noisy Supervision: A Confusion Mixture Modeling Approach](https://ieeexplore.ieee.org/abstract/document/10889155)<br>
+[Under-Counted Matrix Completion Without Detection Features](https://ieeexplore.ieee.org/abstract/document/10888717)<br>
+
+**October 2024**: Attended Asilomar 2024 at Pacefic Grove, CA. Presented our paper "Deep Learning under Instance-dependent Label Noise: A Tensor Factorization Perspective" and also served as the session chair.
+
+**September 2024**: One paper got accepted at NeurIPS 2024. <br>
+[Noisy Label Learning with Instance-Dependent Outliers: Identifiability via Crowd Wisdom](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b05e6a11df6eacb600074a42bb28ae52-Abstract-Conference.html)
+
+
+**July 2024**: Recieved the outstanding PhD dissertation award from EECS, Oregon State University. Special thanks to my advisor Dr. Xiao Fu for supporting my research.
+
 **September 2023**: Served as the PC member of AISTATS 2023
 
 **September 2023**: One paper got accepted at [IEEE CAMSAP 2023](https://camsap23.ig.umons.ac.be/). Congrats Grey for your first paper acceptance!
