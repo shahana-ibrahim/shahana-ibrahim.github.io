@@ -3,14 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research Group"
+    url: /group/
+
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Talks"
     url: /talks/      
     
   - title: "CV"
     url: /files/resume_shahana.pdf
-
-  - title: "Research Group"
-    url: /group/
     
   - title: "Contact"
     url: /contact/
