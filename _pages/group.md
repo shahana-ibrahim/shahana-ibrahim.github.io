@@ -1,18 +1,17 @@
-# 🧠 Research Lab Members
+# Research Lab Members
 
-Welcome to the team page of the **[Your Lab Name]**! We are a group of researchers passionate about [brief lab focus, e.g., "machine learning, signal processing, and data-centric AI"]. Get to know our team below:
 
 ---
 
-## 🧑‍🏫 Principal Investigator
+## Principal Investigator
 
-| ![](images/prof.jpg) | **Dr. [Your Name]**  
+|![](/images/shahana1.jpg)| **Dr. Shahana Ibrahim**  
+![Defense](/images/shahana1.jpg)
 **Title:** Assistant Professor  
 **Research:** Robust Machine Learning, Signal Processing, AI for Science  
-📧 your.email@university.edu  
-🌐 [Website](https://yourwebsite.com) • [Google Scholar](https://scholar.google.com/yourprofile)  
-|
-|:--:|
+**Email:** shahana.ibrahim@ucf.edu  
+🌐[Google Scholar](https://scholar.google.com/citations?user=2_NYo1AAAAAJ&hl=en)  
+
 
 ---
 
