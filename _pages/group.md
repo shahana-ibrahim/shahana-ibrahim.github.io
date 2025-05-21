@@ -35,6 +35,7 @@ University of Central Florida, Orlando, FL
 | ![](/images/faizul.jpg) | **Faizul Rakib Sayem** | Prompt-based Learning, Robust Multi-label Recognition | faizulrakib.sayem@ucf.edu   |
 ---
 
+
 ## Master’s Students
 
 |  |  | Research Direction | Contact |
@@ -45,7 +46,5 @@ University of Central Florida, Orlando, FL
 ---
 
 
----
 
-> Interested in joining us? Reach out to the PI with your detailed resume!
 
