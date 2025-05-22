@@ -8,11 +8,67 @@ author_profile: true
 
 You can also find my publications on <a href="https://scholar.google.com/citations?user=FxN93qsAAAAJ&hl=en"> Google Scholar </a> <br>
 
+<table >
+<tbody>
+<strong> Learning From Crowdsourced Noisy Labels: A Signal Processing Perspective </strong>  <br>  Shahana Ibrahim, Panagiotis A Traganitis, Xiao Fu, Georgios B Giannakis. <br>
+<i> IEEE Signal Processing Magazine, 2025 </i> <br>
+<a href="https://arxiv.org/abs/2407.06902"> [PDF] </a> 
+</tbody>
+</table>
+
+<table >
+<tbody>
+<strong> Robust Multi-Label Learning with Human-
+Guided and Foundation Model-Aided Crowd Framework </strong>  <br>   Faizul Rakib Sayem and Shahana Ibrahim. <br>
+<i> IEEE International Conference on
+Image Processing (ICIP), 2025 </i> <br>
+</tbody>
+</table>
+
+<table >
+<tbody>
+<strong> Multi-label Recognition under Noisy Supervision: A Confusion Mixture Modeling Approach </strong>  <br>  Diego Linares Gonzalez and Shahana Ibrahim. <br>
+<i> IEEE International Conference on Acoustics, Speech and Signal Processing
+(ICASSP), 2025 </i> <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/10889155"> [PDF] </a> 
+</tbody>
+</table>
+
+<table >
+<tbody>
+<strong> Under-Counted Matrix Completion Without
+Detection Features </strong>  <br>  Tri Nguyen, Shahana Ibrahim, and Xiao Fu. <br>
+<i> IEEE International Conference on Acoustics, Speech and Signal Processing
+(ICASSP), 2025 </i> <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/10888717"> [PDF] </a> 
+</tbody>
+</table>
+
+<table >
+<tbody>
+<strong> Noisy Label Learning with Instance-Dependent
+Outliers: Identifiability via Crowd Wisdom </strong>  <br>  Tri Nguyen, Shahana Ibrahim, and Xiao Fu. <br>
+<i> Advances in Neural Information Processing Systems, 2024 </i> <br>
+<a href="https://openreview.net/forum?id=HTLJptF7qM"> [PDF] </a> 
+</tbody>
+</table>
+
+
+<table >
+<tbody>
+<strong> Deep Learning under Instance-dependent
+Label Noise: A Tensor Factorization Perspective </strong>  <br>  Diego Linares Gonzalez and Shahana Ibrahim. <br>
+<i> Asilomar Conference on Signals, Systems,
+and Computers, 2024 </i> <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/10943053"> [PDF] </a> 
+</tbody>
+</table>
+
 
 <table >
 <tbody>
 <strong> Under-Counted Tensor Completion with Neural Incorporation of Attributes </strong>  <br>  Shahana Ibrahim, Xiao Fu, Rebecca Hutchinson, and Eugene Seo. <br>
-<i> accepted at International Conference on Machine Learning (ICML), 2023 </i> <br>
+<i> International Conference on Machine Learning (ICML), 2023 </i> <br>
 <a href="https://arxiv.org/pdf/2306.03273.pdf"> [PDF] </a> <a href="https://github.com/shahana-ibrahim/undercounted-tensor-completion"> [CODE] </a> 
 </tbody>
 </table>
@@ -20,7 +76,7 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 <table >
 <tbody>
 <strong> Deep Clustering with Incomplete Noisy Pairwise Annotations: A Geometric Regularization Approach </strong> <br>  Tri Nguyen, Shahana Ibrahim, and Xiao Fu. <br>
-<i> accepted at International Conference on Machine Learning (ICML), 2023 </i> <br>
+<i> International Conference on Machine Learning (ICML), 2023 </i> <br>
 <a href="https://arxiv.org/pdf/2305.19391.pdf"> [PDF] </a>  
 </tbody>
 </table>
@@ -32,6 +88,22 @@ Cross-entropy Minimization, Identifiability, and Regularization </strong> <br>  
 <i> International Conference on Learning Representations (ICLR), 2023 </i> <br>
 <a href="https://openreview.net/forum?id=_qVhsWyWB9"> [PDF] </a> <a href="https://github.com/shahana-ibrahim/end-to-end-crowdsourcing"> [CODE] </a> <a href="https://shahana-ibrahim.github.io/files/iclr2023_slides_Ver3.pdf"> [SLIDES] </a>  
 <a href="https://shahana-ibrahim.github.io/files/iclr_poster.pdf"> [POSTER] </a>    
+</tbody>
+</table>
+
+<table >
+<tbody>
+<strong> Labeling Sequential Data from Noisy Annotations </strong> <br>  Tim Marrinan, Shahana Ibrahim, and Xiao Fu. <br>
+<i> IEEE Sensor Array and Multichannel Signal Processing Workshop, 2023 </i> <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/10636383"> [PDF] </a>  
+</tbody>
+</table>
+
+<table >
+<tbody>
+<strong> Deep Learning from Noisy Labels via Robust Nonnegative Matrix Factorization-Based Design </strong> <br>  Daniel Grey Wolnick, Shahana Ibrahim, Tim Marrinan, and Xiao Fu. <br>
+<i> IEEE Computational Advances in Multi-Sensor Adaptive Processing Workshop, 2023 </i> <br>
+<a href="https://ieeexplore.ieee.org/document/10403492"> [PDF] </a>  
 </tbody>
 </table>
 
