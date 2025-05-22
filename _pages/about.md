@@ -31,6 +31,7 @@ The rise of AI opens the door to unimaginable opportunities for making the world
 **May 2025**: Our tutorial paper [**Learning from Crowdsourced Noisy Labels: A Signal Processing Perspective**](https://arxiv.org/abs/2407.06902) got accepted at IEEE Signal Processing Magazine. 
 
 **April 2025**: Attended ICASSP 2025 in Hyderabad India. Presented the tutorial, lecture, and a poster!
+
 ![](/images/icassp1.jpg)
 
 
